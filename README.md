@@ -14,5 +14,10 @@ Terima kasih
 ## Halaman Pembelian ##
 https://lawangtech.com/live-mrhands-dropship
 
+Untuk report issue silahkan push issue disini
+https://github.com/handita/mdsreport/issues
+
+Gunakan Tag agar memudahkan menyaring issue dan tracking
+
 ## Creator dan Owner ## 
 Handita Okviyanto
