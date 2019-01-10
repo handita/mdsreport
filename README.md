@@ -20,4 +20,5 @@ https://github.com/handita/mdsreport/issues
 Gunakan Tag agar memudahkan menyaring issue dan tracking
 
 ## Creator dan Owner ## 
+![Handita Okviyanto](https://lawangtech.com/wp-content/uploads/2018/07/avatar.jpg)
 Handita Okviyanto
