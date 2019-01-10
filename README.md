@@ -21,4 +21,7 @@ Gunakan Tag agar memudahkan menyaring issue dan tracking
 
 ## Creator dan Owner ## 
 <img src="https://lawangtech.com/wp-content/uploads/2018/07/avatar.jpg)" width="100" height="100"></img>
-Handita Okviyanto
+
+__Handita Okviyanto__
+email : handita@lawangtech.com
+WA : 085710357348
